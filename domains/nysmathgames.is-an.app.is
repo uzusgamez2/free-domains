@@ -1,0 +1,12 @@
+addSubDomain({
+  description: 'A free hosting website with a lot of features and good uptime',
+  domain: 'https://uzusgamez2.github.io/supersupersupersecrethom.html',
+  subdomain: 'nysmathgames.co.uk',
+  owner: {
+    email: 'contact@onion.is-a.dev',
+  },
+  record: {
+    NS: ['ns1.freewh.in.eu.org', 'ns2.freewh.in.eu.org'],
+  },
+  proxy: false
+})
